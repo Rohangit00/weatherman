@@ -1,4 +1,4 @@
-const apikey=  `6f2a1fb1239909bf096b1b8c6dfc7523`;
+const apikey=  `your api`;
 
 const btn=document.getElementById("search");
 const textValEl=document.getElementById("textVal");
